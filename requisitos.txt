@@ -1,0 +1,5 @@
+LISTADO DE REQUERIMIENTOS
+
+- Cambiar el color de fondo
+- Corregir desborde en la pagina de incio.
+- Aumentar el tamaño de la letra para ser mas legible.
